@@ -1,0 +1,14 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using IoTSmartDoor.Models
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    if (User.IsInRole("Host"))
+    {
+        <li><a asp-controller="Guest" asp-action="List">Guests</a></li>
+    }
+    <li><a asp-controller="Request" asp-action="List">Requests</a></li>
+    <li><a asp-controller="Log" asp-action="List">Log</a></li>
+}

@@ -1,0 +1,11 @@
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\bin\Debug\netcoreapp2.0\IoTSmartDoor.deps.json
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\bin\Debug\netcoreapp2.0\IoTSmartDoor.runtimeconfig.json
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\bin\Debug\netcoreapp2.0\IoTSmartDoor.runtimeconfig.dev.json
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\bin\Debug\netcoreapp2.0\IoTSmartDoor.dll
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\bin\Debug\netcoreapp2.0\IoTSmartDoor.pdb
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\obj\Debug\netcoreapp2.0\IoTSmartDoor.csprojResolveAssemblyReference.cache
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\obj\Debug\netcoreapp2.0\IoTSmartDoor.csproj.CoreCompileInputs.cache
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\obj\Debug\netcoreapp2.0\IoTSmartDoor.AssemblyInfoInputs.cache
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\obj\Debug\netcoreapp2.0\IoTSmartDoor.AssemblyInfo.cs
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\obj\Debug\netcoreapp2.0\IoTSmartDoor.dll
+C:\Users\mirzet brkic\Desktop\I\selected topics in software engineerin - internet of things and services\project\IoTSmartDoor\IoTSmartDoor\IoTSmartDoor\obj\Debug\netcoreapp2.0\IoTSmartDoor.pdb
